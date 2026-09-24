@@ -56,7 +56,7 @@ expense_tracker/
 
 ## Screenshots
 <img width="1903" height="912" alt="image" src="https://github.com/user-attachments/assets/ab970b5f-d877-485e-aa41-a50a21230cf3" />
-<img width="1910" height="912" alt="image" src="https://github.com/user-attachments/assets/9e0bbe8f-1abd-4f50-9598-268560cf389b" />
+<img width="1917" height="837" alt="image" src="https://github.com/user-attachments/assets/19b117e3-7259-4111-8018-e441fda44fdc" />
 <img width="1917" height="837" alt="image" src="https://github.com/user-attachments/assets/c5fc9e8b-2e5a-40bb-b592-35115f99efe4" />
 <img width="1905" height="912" alt="image" src="https://github.com/user-attachments/assets/0c896c83-6e90-4cd4-ac0f-e6f1f7e2320a" />
 
