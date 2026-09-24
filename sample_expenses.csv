@@ -1,0 +1,83 @@
+Date,Category,Amount,Payment Method,Description
+2026-06-26,Groceries,330.01,UPI,Weekly groceries
+2026-06-26,Rent,8000.0,Cash,Monthly rent
+2026-06-27,Travel,2398.65,Cash,Weekend trip
+2026-06-30,Rent,8000.0,Cash,Monthly rent
+2026-06-30,Education,1374.66,Net Banking,Certification exam fee
+2026-06-30,Utilities,1714.15,Cash,Internet bill
+2026-07-01,Entertainment,439.21,Card,Movie tickets
+2026-07-01,Shopping,486.19,Net Banking,Clothes
+2026-07-05,Shopping,2572.98,UPI,Clothes
+2026-07-07,Health,1118.83,Net Banking,Pharmacy
+2026-07-09,Education,1020.9,UPI,Certification exam fee
+2026-07-10,Rent,8000.0,Cash,Monthly rent
+2026-07-11,Utilities,1977.83,Card,Electricity bill
+2026-07-13,Entertainment,386.28,UPI,Movie tickets
+2026-07-15,Shopping,1194.76,UPI,Online order
+2026-07-15,Groceries,1030.96,Card,Vegetables & fruits
+2026-07-15,Rent,8000.0,Net Banking,Monthly rent
+2026-07-17,Education,814.92,UPI,Online course
+2026-07-19,Rent,8000.0,UPI,Monthly rent
+2026-07-20,Utilities,599.28,UPI,Internet bill
+2026-07-21,Health,851.7,Net Banking,Pharmacy
+2026-07-22,Utilities,709.45,UPI,Mobile recharge
+2026-07-24,Travel,2297.3,Card,Weekend trip
+2026-07-24,Education,1581.84,Cash,Online course
+2026-07-24,Transport,269.61,Net Banking,Cab ride
+2026-07-24,Entertainment,474.38,Net Banking,Concert
+2026-07-24,Utilities,1956.62,Cash,Electricity bill
+2026-07-24,Education,2302.46,UPI,Online course
+2026-07-28,Utilities,1152.15,Net Banking,Electricity bill
+2026-07-29,Utilities,1957.83,Card,Electricity bill
+2026-07-31,Utilities,1762.5,Card,Internet bill
+2026-08-01,Shopping,2335.03,Cash,Online order
+2026-08-02,Shopping,1568.1,Cash,Electronics accessory
+2026-08-02,Utilities,859.18,Card,Electricity bill
+2026-08-04,Groceries,1178.29,Cash,Vegetables & fruits
+2026-08-04,Transport,94.94,Net Banking,Bus pass
+2026-08-04,Utilities,1291.51,Net Banking,Internet bill
+2026-08-06,Education,2314.74,Card,Certification exam fee
+2026-08-07,Utilities,1098.49,UPI,Mobile recharge
+2026-08-07,Education,1464.16,Card,Online course
+2026-08-11,Groceries,705.7,Card,Vegetables & fruits
+2026-08-11,Rent,8000.0,Cash,Monthly rent
+2026-08-11,Groceries,1386.5,UPI,Weekly groceries
+2026-08-13,Education,866.41,Net Banking,Online course
+2026-08-13,Education,570.47,Net Banking,Online course
+2026-08-14,Health,1634.24,Card,Pharmacy
+2026-08-14,Groceries,1090.78,UPI,Supermarket run
+2026-08-15,Entertainment,546.97,Cash,Concert
+2026-08-18,Groceries,372.74,UPI,Weekly groceries
+2026-08-19,Rent,8000.0,Net Banking,Monthly rent
+2026-08-19,Entertainment,305.96,Net Banking,Movie tickets
+2026-08-20,Groceries,831.76,Cash,Weekly groceries
+2026-08-25,Education,2540.88,Cash,Online course
+2026-08-25,Transport,192.24,Net Banking,Bus pass
+2026-08-25,Entertainment,917.08,Card,Streaming subscription
+2026-08-25,Food & Dining,592.65,UPI,Snacks
+2026-08-25,Utilities,1134.51,Net Banking,Internet bill
+2026-08-26,Rent,8000.0,Cash,Monthly rent
+2026-08-26,Shopping,360.06,Net Banking,Online order
+2026-08-26,Education,640.81,Cash,Online course
+2026-08-26,Groceries,1014.04,Card,Supermarket run
+2026-08-29,Groceries,1429.92,Card,Vegetables & fruits
+2026-08-29,Travel,678.84,Cash,Train tickets
+2026-08-31,Travel,3043.52,UPI,Train tickets
+2026-09-03,Rent,8000.0,UPI,Monthly rent
+2026-09-05,Utilities,1093.68,UPI,Mobile recharge
+2026-09-05,Shopping,2801.25,Cash,Clothes
+2026-09-06,Health,1280.2,Cash,Pharmacy
+2026-09-06,Education,796.83,UPI,Online course
+2026-09-07,Shopping,2666.42,Card,Electronics accessory
+2026-09-10,Utilities,736.62,UPI,Electricity bill
+2026-09-13,Education,1038.26,Cash,Online course
+2026-09-15,Utilities,673.14,Cash,Internet bill
+2026-09-15,Utilities,922.63,Card,Water bill
+2026-09-16,Rent,8000.0,UPI,Monthly rent
+2026-09-16,Utilities,1858.0,Cash,Electricity bill
+2026-09-17,Entertainment,854.95,Cash,Movie tickets
+2026-09-18,Shopping,2359.13,UPI,Clothes
+2026-09-18,Health,1148.19,Net Banking,Gym membership
+2026-09-20,Food & Dining,155.94,Card,Restaurant bill
+2026-09-23,Food & Dining,517.3,Card,Snacks
+2026-09-23,Transport,64.64,UPI,Cab ride
