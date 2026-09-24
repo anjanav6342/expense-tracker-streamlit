@@ -55,11 +55,11 @@ expense_tracker/
 - Currency conversion support
 
 ## Screenshots
-<img width="1917" height="913" alt="image" src="https://github.com/user-attachments/assets/cf88ad64-50c9-45ae-983f-621f6764a9e6" />
-<img width="1915" height="902" alt="image" src="https://github.com/user-attachments/assets/153e5afc-a513-40a3-a376-2a4e1612543c" />
-<img width="1903" height="897" alt="image" src="https://github.com/user-attachments/assets/2e7204ec-d2de-4614-af16-4c181a1d4e74" />
-<img width="1910" height="906" alt="image" src="https://github.com/user-attachments/assets/de619b13-6ea5-4346-aba4-ad12e64b9627" />
-<img width="1911" height="907" alt="image" src="https://github.com/user-attachments/assets/51ad1f05-fddf-4280-bf92-79ad62c282b3" />
+<img width="1903" height="912" alt="image" src="https://github.com/user-attachments/assets/ab970b5f-d877-485e-aa41-a50a21230cf3" />
+<img width="1910" height="912" alt="image" src="https://github.com/user-attachments/assets/9e0bbe8f-1abd-4f50-9598-268560cf389b" />
+<img width="1917" height="837" alt="image" src="https://github.com/user-attachments/assets/c5fc9e8b-2e5a-40bb-b592-35115f99efe4" />
+<img width="1905" height="912" alt="image" src="https://github.com/user-attachments/assets/0c896c83-6e90-4cd4-ac0f-e6f1f7e2320a" />
+
 
 
 
